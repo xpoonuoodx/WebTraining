@@ -1,7 +1,3 @@
-# WebTraining
-โปรเจคสำหรับฝึก
+# Project webTraining 
 
-# welcome
-
-# Hello
-I'm poon
+webTraining เป็นโปรเจคเพื่อสำหรับฝึกเขียนโค้ดของผมเอง(ปูน) เพื่อเพิ่มทักษะในการเขียนโปรแกรม ไว้สำหรับสมัคร 
